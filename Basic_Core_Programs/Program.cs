@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            FlipCoin.flipCoin();
+            Leapyear.Check_year();
         }
     }
 }

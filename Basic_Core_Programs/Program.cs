@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Leapyear.Check_year();
+            Power_of_2.table();
         }
     }
 }

@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Power_of_2.table();
+            EvenOddNumber.check_number();
         }
     }
 }

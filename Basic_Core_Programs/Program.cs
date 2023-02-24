@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            EvenOddNumber.check_number();
+            SwapNo.Swapping();
         }
     }
 }

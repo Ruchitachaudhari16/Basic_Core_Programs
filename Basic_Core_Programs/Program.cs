@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Largest_No.CheckLargestNo();
+            QuotiRemain.CheckQuoRemain();
         }
     }
 }
